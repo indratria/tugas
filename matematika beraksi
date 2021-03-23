@@ -1,0 +1,10 @@
+public class MatematikaBeraksi {
+public static void main (String[] args){
+    Matematika Mtk = new Matematika ();
+    
+      Mtk.pertambahan(20,20);
+      Mtk.pengurangan(10,5);
+      Mtk.perkalian(10,2);
+      Mtk.pembagian(20,2);
+}
+}
