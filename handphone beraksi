@@ -1,0 +1,16 @@
+public class handphoneberaksi {
+    public static void main (String[] args){
+        handphone hpku = new handphone ();
+       
+        hpku.handphone ="handphone hidup...";
+        hpku.handphone ="kring,kring,kring...panggilan dilakukan";
+        hpku.handphone ="dung,dung...sms berhasil terkirim";
+        hpku.handphone ="handphone mati...";
+       
+        hpku.printhidupkan();
+        hpku.printlakukanpanggilan();
+        hpku.printkirimsms();
+        hpku.printmatikan();
+    }
+   
+}
