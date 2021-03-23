@@ -1,0 +1,7 @@
+public class BankBeraksi {
+  public static void main (String[]args) {
+      Bank Bankbca = new Bank (100000);
+      Bankbca.SimUang (500000);
+      Bankbca.ambilUang(150000);
+   }
+ }
