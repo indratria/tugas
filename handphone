@@ -1,0 +1,20 @@
+public class handphone {
+
+
+    String handphone;
+   
+    void printhidupkan(){
+        System.out.println("handphone hidup...");
+       
+    }
+    void printlakukanpanggilan(){
+        System.out.println("kring,kring...panggilan dilakukan");
+       
+    }
+    void printkirimsms (){
+        System.out.println("dung,dung...sms berhasil terkirim");
+       
+    }
+    void printmatikan(){
+        System.out.println("handphone mati...");
+    }
