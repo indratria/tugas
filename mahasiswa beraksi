@@ -1,0 +1,9 @@
+public class mahasiswaberaksi extends Mahasiswa {
+public static void main (String[] args){
+Mahasiwa mhs=new Mahasiswa ();
+
+mhs.membaca();
+mhs.nyontek();
+mhs.modifikasi();
+}
+}
